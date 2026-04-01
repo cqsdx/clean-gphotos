@@ -33,3 +33,4 @@ nul
 .pytest_cache/
 .coverage
 htmlcov/
+.claude.bat
