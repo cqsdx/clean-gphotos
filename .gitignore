@@ -34,3 +34,6 @@ nul
 .coverage
 htmlcov/
 .claude.bat
+
+# Config locale Claude Code
+.claude/settings.local.json

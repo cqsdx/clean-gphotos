@@ -1,5 +1,6 @@
 # Changelog
 
+- [2026-10-09] [09:10] [git] `.claude/settings.local.json` (config locale Claude Code) retiré de l'index et ajouté au `.gitignore` ; le fichier reste sur le disque.
 - [2026-10-07] [14:20] [docs] Ajout CLAUDE.md, bloc « Initial release » converti au format CHANGELOG
 - [2026-03-17] [12:27] [scanner/clean-gphotos] Sauvegarde mapping fichier→albums dans _album_mapping.json, recréation albums après déplacement
 - [2026-03-17] [12:22] [organizer] Fix mode move : supprime la source si fichier déjà présent à destination (doublon skippé)
